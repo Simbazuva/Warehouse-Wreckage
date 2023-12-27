@@ -1,3 +1,3 @@
 # Warehouse Wreckage
 
-We create our first game using physics simulation in Unreal. We learn the fundamental concepts of Unreal and start to program in Blueprint.
+I created my first game using physics simulation in Unreal. I learnt the fundamental concepts of Unreal and started to program in Blueprint.
