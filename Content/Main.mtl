@@ -1,0 +1,15 @@
+﻿newmtl M_SimpleSkyDome
+	map_Kd M_SimpleSkyDome_D.bmp
+	map_Ks M_SimpleSkyDome_S.bmp
+	bump M_SimpleSkyDome_N.bmp
+
+newmtl MI_Rack01_1
+	map_Kd MI_Rack01_1_D.bmp
+	map_Ks MI_Rack01_1_S.bmp
+	bump MI_Rack01_1_N.bmp
+
+newmtl MI_Barrel01_1
+	map_Kd MI_Barrel01_1_D.bmp
+	map_Ks MI_Barrel01_1_S.bmp
+	bump MI_Barrel01_1_N.bmp
+
